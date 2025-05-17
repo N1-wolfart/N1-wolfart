@@ -34,8 +34,8 @@
 ### 🎬 Latest YouTube Video
 
 <p align="center">
-  <a href="https://www.youtube.com/@N1-WOLFART" target="_blank">
-    <img width="480" src="https://img.youtube.com/vi/動画ID/maxresdefault.jpg" alt="Latest video" />
+  <a href="https://www.youtube.com/watch?v=lNY22LxApHM" target="_blank">
+    <img width="480" src="https://img.youtube.com/vi/lNY22LxApHM/maxresdefault.jpg" alt="Latest video" />
   </a>
   <br />
   👉 Check out my channel for anime MADs & game UI mods!
