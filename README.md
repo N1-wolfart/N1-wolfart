@@ -14,7 +14,7 @@
 
 <!-- SNSリンク -->
 <p align="center">
-  <a href="https://www.youtube.com/@your_channel" target="_blank">
+  <a href="www.youtube.com/@N1-WOLFART" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@your_username" target="_blank">
