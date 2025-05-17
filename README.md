@@ -14,11 +14,11 @@
 
 <!-- SNSリンク -->
 <p align="center">
-  <a href="[www.youtube.com/@N1-WOLFART](https://www.youtube.com/@N1-WOLFART)" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@N1-WOLFART" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@N1--WOLFART-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@your_username" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <a href="https://www.tiktok.com/@tenmus_mad" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@tenmus__mad-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 ### 🎬 Latest YouTube Video
 
 <p align="center">
-  <a href="https://www.youtube.com/@your_channel" target="_blank">
+  <a href="https://www.youtube.com/@N1-WOLFART" target="_blank">
     <img width="480" src="https://img.youtube.com/vi/動画ID/maxresdefault.jpg" alt="Latest video" />
   </a>
   <br />
