@@ -26,8 +26,23 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,figma,git,linux" />
+  <!-- 使用しているプログラミング言語 -->
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+
+  <!-- 使用しているソフトウェア -->
+  <br />
+  🎨 Creative Tools: 
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+
+  <!-- 使用している開発ツール -->
+  <br />
+  🧩 Dev Tools:
+  <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
 
 ---
 
