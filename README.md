@@ -62,11 +62,13 @@
 
 | Name | Description | Tech |
 |------|-------------|------|
-| [🎯 StylishCrosshair](https://github.com/N1-wolfart/StylishCrosshair) | FPS風のカスタム照準MOD。マウス長押しで縮む演出あり。 | JS / Tampermonkey |
-| [🧪 Narrow-one-cyberUI](https://github.com/N1-wolfart/Narrow-one-cyberUI)| サイバー風フォントとHUDを再現したNarrow.One用UI改造MOD。 | HTML / CSS / JS |
-| [📦 TemplateMOD](https://github.com/N1-wolfart/TemplateMOD) | MOD開発用のテンプレートリポジトリ。初心者向け解説付き。 | JS / Markdown |
+| [🎯 Narrow-one-Military-UI](https://github.com/N1-wolfart/Narrow-one-Military-UI) | A Tampermonkey mod to customize Narrow.One's UI with a military-style theme. Features military-inspired fonts, dark green color schemes, and lightweight stylish animations. Designed to enhance immersion without affecting gameplay performance. | html / Tampermonkey |
+| [🧪 Narrow-one-cyberUI](https://github.com/N1-wolfart/Narrow-one-cyberUI)| Cyberpunk-style font mod for Narrow.One – a glowing UI upgrade via Tampermonkey.
 
-> 🔗 すべてのプロジェクトは [こちら](https://github.com/N1-wolfart?tab=repositories) からご覧ください！
+Resources
+ | html / Tampermonkey |
+
+> 🔗 all project [here](https://github.com/N1-wolfart?tab=repositories) 🔥🔥
 
 
 ---
