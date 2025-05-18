@@ -63,7 +63,7 @@
 | Name | Description | Tech |
 |------|-------------|------|
 | [🎯 StylishCrosshair](https://github.com/N1-wolfart/StylishCrosshair) | FPS風のカスタム照準MOD。マウス長押しで縮む演出あり。 | JS / Tampermonkey |
-| [🧪 CyberUI](https://github.com/N1-wolfart/CyberUI) | サイバー風フォントとHUDを再現したNarrow.One用UI改造MOD。 | HTML / CSS / JS |
+| [🧪 Narrow-one-cyberUI]([https://github.com/N1-wolfart/CyberUI](https://github.com/N1-wolfart/Narrow-one-cyberUI)) | サイバー風フォントとHUDを再現したNarrow.One用UI改造MOD。 | HTML / CSS / JS |
 | [📦 TemplateMOD](https://github.com/N1-wolfart/TemplateMOD) | MOD開発用のテンプレートリポジトリ。初心者向け解説付き。 | JS / Markdown |
 
 > 🔗 すべてのプロジェクトは [こちら](https://github.com/N1-wolfart?tab=repositories) からご覧ください！
